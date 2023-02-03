@@ -1,0 +1,84 @@
+.navofbootstrap{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210227/pngtree-cyan-gradient-dark-background-image_570821.jpg);
+}
+.ee{
+    visibility: hidden;
+}
+.BermWorld{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: lightseagreen !important;
+}
+.BermWorld:hover{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: darkturquoise !important;
+}
+.BermWorl{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: darkcyan !important;
+}
+.BermWorl:hover{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: lightseagreen !important;
+}
+.BermWor{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: darkcyan !important;
+}
+.BermWor:hover{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: lightseagreen !important;
+}
+.BermWo{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: darkcyan !important;
+}
+.BermWo:hover{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: lightseagreen !important;
+}
+.BermW{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: darkcyan !important;
+}
+.BermW:hover{
+    /* initial-letter-align: url(https://images.unsplash.com/photo-1614852206732-6728910dc175?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHVycGxlJTIwZ3JhZGllbnR8ZW58MHx8MHx8&w=1000&q=80) !important; */
+    color: lightseagreen !important;
+}
+.lastimgofheader{
+    margin-top: 6px !important;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.lastimgofheader:hover{
+    margin-top: 6px !important;
+    border: 3px inset darkturquoise;
+    background-color: darkturquoise;
+    border-radius: 20px;
+}
+.bodyone{
+    /* background-image: url(https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg); */
+    height: 100vh;
+    width: 100%;
+}
+.headinginboyone{
+    font-size: 38px;
+    text-align: center;
+    font-weight: 700;
+    padding: 50px;
+}
+.firstimgofbodyone{
+    margin: 20px 0px 0px 20px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 15px;
+    
+}
+.secimgofbodyone{
+    margin: 20px 0px 0px 20px;
+    width: 300px;
+    border-radius: 15px;
+    
+}
+.ss{
+    width: 300px !important;
+}
