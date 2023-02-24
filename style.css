@@ -70,7 +70,7 @@
 }
 
 .bodyone {
-    /* background-image: url(https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg); */
+    background-image: url(https://cdn-media-2.freecodecamp.org/w1280/5f9c9cfc740569d1a4ca3543.jpg);
     background-attachment: fixed;
     height: 100vh;
     width: 100%;
@@ -81,6 +81,7 @@
     text-align: center;
     font-weight: 700;
     padding: 50px;
+    color: white;
 }
 
 .firstimgofbodyone {
@@ -196,3 +197,9 @@
     margin-left: -2px;
     width: 70px;
 }
+/* .bodytwo{ */
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmw9pVRhHzHsyti_1FoUNcECTc28E2jUPGbbrDOGMBFrJCFiWU8pmL&usqp=CAU); */
+     /* background-attachment: fixed;
+    height: 100vh;
+    width: 100%; */
+/* }  */
